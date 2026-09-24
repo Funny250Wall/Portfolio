@@ -1,8 +1,10 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
+import logoImage from './Layout/logo.png';
 export default function Layout() {
     return (
     <div>
+    <img src={logoImage} alt="logo" />
     <h1>My Portfolio</h1>
     <nav>
     <Link to="/">Home</Link> | <Link to="/about">About</Link> |

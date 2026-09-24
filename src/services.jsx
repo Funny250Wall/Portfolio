@@ -10,7 +10,7 @@ export default function Services() {
     <br></br>
     <img src={phoneImage} alt="iphone" /> <p>Apps Development</p>
     <br></br>
-    <img src={codeImage} alt="code" /> <p>General Code Bullshittery</p>
+    <img src={codeImage} alt="code" /> <p>General Code Work</p>
     </div>
     );
     //All images are stored in an assets folder specific to this part of the site for organisation
