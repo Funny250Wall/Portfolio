@@ -13,5 +13,5 @@ export default function Services() {
     <img src={codeImage} alt="code" /> <p>General Code Work</p>
     </div>
     );
-    //All images are stored in an assets folder specific to this part of the site for organisation
+    //All images are stored in an assets folder specific to this part of the site for organisation, the about and projects page have one too
 }

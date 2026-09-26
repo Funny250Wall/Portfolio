@@ -19,6 +19,7 @@ const MainRouter = () => {
     <Route exact path="/services" element={<Services />} />
     </Routes>
     </div>
+    //Routes ^ these will redirect to each part of the page
     )
 }
 export default MainRouter
