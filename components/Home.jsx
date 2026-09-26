@@ -7,7 +7,7 @@ export default function Home() {
     <button>About Me</button>
     </Link>
     <h2>Mission Statement</h2>
-    <p>I will work very hard if you hire me please please please please please please please please please</p>
+    <p>I will work very hard if you hire me.</p>
     </div>
     );
 }
