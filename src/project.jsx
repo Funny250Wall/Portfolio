@@ -11,4 +11,5 @@ export default function Project() {
     <p><img src={placeImage} alt="place" /> I don't have any more projects to highlight</p>
     </div>
     );
+    //Just text next to images
 }

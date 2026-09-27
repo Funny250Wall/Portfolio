@@ -5,5 +5,6 @@ export default function Education() {
     <p>Graduated from Satec Porter Collegiate - 2023</p>
     <p>Currently a full time game dev student at Centennial College 2024 - present</p>
     </div>
+    //Just text here
     );
 }
